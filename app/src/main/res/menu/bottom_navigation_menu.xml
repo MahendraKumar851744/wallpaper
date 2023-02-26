@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/categories"
+        android:enabled="true"
+        android:icon="@drawable/categories"
+        android:title="Categories"
+        />
+    <item
+        android:id="@+id/trending"
+        android:enabled="true"
+        android:icon="@drawable/trending"
+        android:title="Trending"
+        />
+    <item
+        android:id="@+id/random"
+        android:enabled="true"
+        android:icon="@drawable/shuffle"
+        android:title="Random"
+        />
+</menu>
